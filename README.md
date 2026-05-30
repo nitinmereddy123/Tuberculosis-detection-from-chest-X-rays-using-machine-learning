@@ -8,13 +8,6 @@ This project was completed as part of the Machine Learning Design course. The ma
 
 ---
 
-## Team Members
-
-- Nitin Reddy Mereddy
-- Riswana Palliyaliyil
-
----
-
 ## Dataset
 
 The dataset used in this project is the **Tuberculosis TB Chest X-Ray Dataset** from Kaggle.
@@ -185,9 +178,6 @@ src/
 reports/
     Final project report and phase report.
 
-presentation/
-    Project presentation file.
-
 results/
     df-analyze results, downsampling results, fine-tuning results, and PEFT results.
 
@@ -216,5 +206,3 @@ screenshots/
 The dataset and generated embedding files are not included in this repository because of file size and licensing limitations.
 
 The results, reports, code files, presentation, and screenshots are included for reference.
-
-Large generated files such as parquet files, model files, full image datasets, and compressed dataset files should be excluded from the repository.
